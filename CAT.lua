@@ -4155,14 +4155,13 @@ end
 --     Source CAT     --
 if text == "السورس" or text == "سورس" then 
 local text =  [[
-Welcome To Source
-⌁︙CAT TEAM
-┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
-⌁︙[Source Channel](https://t.me/CATNB8)
+سوورس ڪآت ♁
 
-⌁︙[Developer](https://t.me/SAXAQ)
-┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
-⌁︙[Tws CAT](https://t.me/CAT_VFGBOT)
+[آلُِسوورس](https://t.me/CATNB8) ☤
+
+[آلُِمطُوور](https://t.me/SAXAQ) 𝅘𝅥𝅯
+
+[بَووت التوواصلُِ](https://t.me/CAT_VFGBOT) ⚚
 ]]
 Dev_Abs(msg.chat_id_, msg.id_, 1, text, 1, 'md')
 end
