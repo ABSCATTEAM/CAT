@@ -9318,11 +9318,8 @@ end,nil)
 end
 --     Source CAT     --
 if text == 'جلب نسخه السورس' then
-if not Sudo(msg) then
-Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙للمطور الاساسي فقط ', 1, 'md')
-else
-sendDocument(msg.chat_id_, msg.id_, 0, 1, nil, './CAT.lua', '⌁︙نسخة ملف سورس كات',dl_cb, nil)
-end end
+Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙لمطور السورس فقط ', 1, 'md')
+end
 --     Source CAT     --
 if text == 'روابط الكروبات' or text == 'روابط المجموعات' then
 if not SecondSudo(msg) then
