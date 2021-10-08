@@ -4156,6 +4156,8 @@ end
 if text == "السورس" or text == "اريد السورس" or text == "سورس" or text == "وين السورس" or text == "سورس كات" or text == "سوورس ڪآت ♁" then 
 local inline = { 
 {{text="سوورس ڪآت ♁",url="https://t.me/j8tj8"},},
+{{text="عاشكها ♁",url="https://t.me/j9tj9"},},
+{{text="قناه المطور ♁",url="https://t.me/f7tf7"},},         
 {{text="المطور",url="https://t.me/v7tv7"},},}
 SendInline(msg.chat_id_,'⌁︙مطور السورس',nil,inline) 
 return false 
