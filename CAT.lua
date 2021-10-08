@@ -10512,7 +10512,7 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙لم يتم تعيين قناة الا�
 end end end end
 --     Source CAT     --
 if text == 'القناة' or text == 'قناة السورس' or text == 'قناه السورس' or text == 'قنات السورس' then 
-Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙Channel ↬ [@CATNB8]', 1, 'md')    
+Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙Channel ↬ [@j8tj8]', 1, 'md')    
 end 
 --     Source CAT     --
 if text == 'معلومات السيرفر' or text == 'السيرفر' then 
